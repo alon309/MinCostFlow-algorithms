@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\alont\Desktop\MinCostFlow Project\CycleCanceling\CycleCanceling\Source.c(39,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CycleCanceling.vcxproj -> C:\Users\alont\Desktop\MinCostFlow Project\CycleCanceling\Debug\CycleCanceling.exe

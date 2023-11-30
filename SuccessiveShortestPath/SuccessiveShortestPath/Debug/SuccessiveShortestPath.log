@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\alont\Desktop\MinCostFlow Project\SuccessiveShortestPath\SuccessiveShortestPath\Source.c(39,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SuccessiveShortestPath.vcxproj -> C:\Users\alont\Desktop\MinCostFlow Project\SuccessiveShortestPath\Debug\SuccessiveShortestPath.exe
