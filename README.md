@@ -4,6 +4,7 @@
 As part of an Algorithms course in a software engineering degree, I implemented 2 algorithms that solve the mincost flow problem:
 - Cycle Canceling Algorithm
 - Successive Shortest Path Algorithm
+
 The implementation is in the c language and includes the implementation of additional smaller algorithms:
 - Dijjstra
 - Bellman-Ford
